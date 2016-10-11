@@ -7,8 +7,7 @@ public class Patterns {
 		System.out.println("Wzorce");
 		System.out.println("...i procesy");
 				
-		System.out.println("linia do branch1 w master");
-		System.out.println("linia do branch1");
+		System.out.println("linia w master");
 	}
 
 }

@@ -6,7 +6,8 @@ public class Patterns {
 		// TODO Auto-generated method stub
 		System.out.println("Wzorce");
 		System.out.println("...i procesy");
-
+				
+		System.out.println("linia do branch1 w master");
 	}
 
 }
